@@ -1,0 +1,72 @@
+[
+  {
+    "Id": 90,
+    "UserId": 2,
+    "UserExternalId": "STUNTMAN2",
+    "Title": "Principal Mobility Planner",
+    "IsManager": 1,
+    "StartDate": "2016-11-10T20:06:06.3310939",
+    "EndDate": "2025-07-05T23:34:59.7648297",
+    "HoursPerWeek": 30,
+    "Department": "Finance",
+    "DepartmentExternalId": 3,
+    "CostCenter": "FI",
+    "ContractGuid": "11b5bfc2-b18a-44ec-a3ef-2fcd657aa041"
+  },
+  {
+    "Id": 80,
+    "UserId": 3,
+    "UserExternalId": "STUNTMAN3",
+    "Title": "Regional Creative Analyst",
+    "IsManager": 1,
+    "StartDate": "2020-08-16T20:38:35.9282416",
+    "EndDate": "2026-01-06T13:41:13.2923479",
+    "HoursPerWeek": 16,
+    "Department": "Marketing",
+    "DepartmentExternalId": 4,
+    "CostCenter": "MA",
+    "ContractGuid": "6475af9b-133a-4d10-b313-f2165ef0a8c4"
+  },
+  {
+    "Id": 70,
+    "UserId": 4,
+    "UserExternalId": "STUNTMAN4",
+    "Title": "Legacy Creative Agent",
+    "IsManager": 1,
+    "StartDate": "2020-08-17T05:01:12.0574384",
+    "EndDate": "2023-04-16T18:19:51.7760581",
+    "HoursPerWeek": 16,
+    "Department": "Staffing",
+    "DepartmentExternalId": 14,
+    "CostCenter": "ST",
+    "ContractGuid": "6fa1a59a-38da-48ef-8b18-309c2c84fe23"
+  },
+  {
+    "Id": 60,
+    "UserId": 5,
+    "UserExternalId": "STUNTMAN5",
+    "Title": "Internal Marketing Planner",
+    "IsManager": 1,
+    "StartDate": "2018-07-07T09:15:12.5340343",
+    "EndDate": "2021-12-05T06:06:37.5969322",
+    "HoursPerWeek": 20,
+    "Department": "Management",
+    "DepartmentExternalId": 6,
+    "CostCenter": "MA",
+    "ContractGuid": "3c83ff0c-4e07-4edc-998e-14d4a126550e"
+  },
+  {
+    "Id": 50,
+    "UserId": 6,
+    "UserExternalId": "STUNTMAN6",
+    "Title": "Forward Infrastructure Assistant",
+    "IsManager": 1,
+    "StartDate": "2017-12-19T11:28:41.138687",
+    "EndDate": "2025-08-07T12:01:16.930535",
+    "HoursPerWeek": 40,
+    "Department": "RD",
+    "DepartmentExternalId": 7,
+    "CostCenter": "RD",
+    "ContractGuid": "c68c5704-baa3-4b33-b040-c5f09c7569ac"
+  }
+]
